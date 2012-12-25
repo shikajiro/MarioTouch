@@ -1,1 +1,1 @@
-![](MarioTouch.png)
+![](https://bitbucket.org/shikajiro/mariotouch/raw/9d9ba3138b52b98a5ce1aaf07b31df8200d0446b/MarioTouch.png)
